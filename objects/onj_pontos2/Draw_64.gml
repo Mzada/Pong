@@ -1,0 +1,1 @@
+draw_text(x+70,y,global.gol_p2);

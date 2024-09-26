@@ -1,0 +1,4 @@
+Fazer se mover sozinho é mt dificil afe
+randomize/randomise para deixar aleatorio onde a bola vai iniciar	
+
+choose para escolher o angulo aleatoriamente que a bola vai começar
